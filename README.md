@@ -6,7 +6,7 @@
 
 🛠️ Languages & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,sql,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html" />
 </p>
 
 ⚙️ Frameworks & Tools

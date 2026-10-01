@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm J 👋
 
-<!--
-**JohnnyDdd/JohnnyDdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Computer Science (Co-op) student at **McMaster University**  
+💻 Interested in **Software Development, Full-stack Engineering, and DevOps**  
+🔧 Currently learning **Node.js, Express, REST APIs, SQL, and Playwright**
 
-Here are some ideas to get you started:
+### 🛠️ Technologies
+- **Languages:** Python, JavaScript, Java, C, SQL, MATLAB
+- **Frameworks/Libraries:** React, NumPy, Matplotlib
+- **Tools:** Git, GitHub, Oracle SQL Developer, Power Automate, SharePoint
+- **Systems:** Linux, Windows, macOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- **Mint Parchment** — Frontend AI study assistant using Chrome's built-in Prompt API
+- **Papercut Calendar** — AI-assisted scheduling application generating Google Calendar-compatible events
+
+### 🚀 Currently
+Building projects and strengthening my backend, full-stack, and automated testing skills :)

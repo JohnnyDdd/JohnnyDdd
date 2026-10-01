@@ -1,18 +1,18 @@
-# Hi, I'm J 👋
+# Hi, I'm Johnny Deng 👋
 
 🎓 Third-year Computer Science (Co-op) student at **McMaster University**  
 💻 Interested in **Software Development, Full-stack Engineering, and DevOps**  
 🔧 Currently learning **Node.js, Express, REST APIs, SQL, and Playwright**
 
-### 🛠️ Technologies
-- **Languages:** Python, JavaScript, Java, C, SQL, MATLAB
-- **Frameworks/Libraries:** React, NumPy, Matplotlib
-- **Tools:** Git, GitHub, Oracle SQL Developer, Power Automate, SharePoint
-- **Systems:** Linux, Windows, macOS
+🛠️ Languages & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,sql,matlab" />
+</p>
 
-### 📌 Projects
-- **Mint Parchment** — Frontend AI study assistant using Chrome's built-in Prompt API
-- **Papercut Calendar** — AI-assisted scheduling application generating Google Calendar-compatible events
+⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,linux,vscode" />
+</p>
 
 ### 🚀 Currently
-Building projects and strengthening my backend, full-stack, and automated testing skills :)
+Learning Node.js, Express, REST APIs, SQL, and Playwright while building projects to strengthen my backend and full-stack development skills.
